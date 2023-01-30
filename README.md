@@ -1,10 +1,5 @@
 ### Hi there 👋
-<style>
-  h1 {
-    color: red;
-  }
-</style>
-<h1>MohandHany</h1>
+<h1 style="color:red;">MohandHany</h1>
 
 <!--
 **MohandTurke2002/MohandTurke2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
