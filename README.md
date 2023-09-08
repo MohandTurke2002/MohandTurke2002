@@ -1,7 +1,7 @@
 <h1 align="center"><b>Welcome in my profile</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Itim&weight=500&size=26&duration=4000&pause=1000&color=FFEB3B&width=435&lines=Welcome+in+my+github+profile...;My+name+is+Mohand+Hany;I'm+a+Front-End+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Itim&weight=500&size=26&duration=4000&pause=1000&color=FFEB3B&width=435&lines=Welcome+in+my+github+profile...;My+name+is+Mohand+Hany;I'm+a+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
